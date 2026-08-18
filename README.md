@@ -94,7 +94,7 @@ The dashboard was designed to help an e-commerce business:
 
 ## 📷 Dashboard Preview
 
-![E-Commerce Sales Analysis Dashboard](dashboard.png)
+![E-Commerce Sales Analysis Dashboard](dashboard.png.png)
 
 ---
 
